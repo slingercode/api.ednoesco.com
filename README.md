@@ -1,5 +1,7 @@
 # api.slingercode
 
+> This API is deprecated. Right now the API that I'm using is [worker-twitter](https://github.com/slingercode/worker-twitter).
+
 ## Env variables
 
 - `JWT_KEY`: A string used to sign the JWT
